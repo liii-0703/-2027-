@@ -31,7 +31,11 @@
 - 本机已安装 Chrome 或 Edge（DrissionPage 需要）
 - 能访问 https://www.spacetalent.com.cn
 
-## 安装
+## 安装python collector.py
 
 ```bash
 pip install -r requirements.txt
+
+```
+## 运行命令
+python collector.py
