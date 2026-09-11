@@ -37,8 +37,6 @@
 pip install -r requirements.txt
 
 ```
-## 运行命令
-python collector.py
 
 ## 抽检结果
 
